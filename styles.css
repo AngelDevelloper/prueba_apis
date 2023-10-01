@@ -1,0 +1,12 @@
+.table-button {
+    border-collapse: collapse;
+    border-bottom: 1px solid #000;
+}
+.alert-red {
+   background: rgb(216, 1, 1);
+}
+
+ .font-white {
+    color: #fff;
+
+ }
